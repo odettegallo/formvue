@@ -1,29 +1,20 @@
-# form - vue.project
+# Actividad 
 
-This template should help get you started developing with Vue 3 in Vite.
+Introducción al Framework VueJS 
 
-## Recommended IDE Setup
+## Aprendizaje Esperado  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Describir los aspectos fundamentales de un framework orientado a 
+componentes para el desarrollo de una aplicación Front-End 
 
-## Customize configuration
+## Actividad
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Vamos a crear un formulario de registro simple que permita al usuario 
+ingresar la siguiente información: 
+• Nombre 
+• Correo electrónico 
+• Edad 
+Una vez ingresados los datos, se mostrará un resumen en pantalla con la 
+información ingresada, utilizando binding de datos y controlando cuándo 
+se muestra ese resumen. 
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
